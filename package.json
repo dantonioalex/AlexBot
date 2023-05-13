@@ -1,0 +1,22 @@
+{
+  "name": "alexbot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "npx ts-node src/index.ts"
+  },
+  "keywords": [],
+  "author": "Alex bot",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/pg": "^8.6.6",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.0.3",
+    "pg": "^8.10.0"
+  }
+}

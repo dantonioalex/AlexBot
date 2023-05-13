@@ -1,0 +1,17 @@
+# Node folder
+/node_modules
+
+# Log file
+*.log
+
+# Env
+*.env
+
+# Build folder
+/build
+
+# IDE folder
+/.idea
+/.code
+/.vs
+/.vs-code

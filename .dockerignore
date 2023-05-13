@@ -1,0 +1,16 @@
+# Node modules
+/node_modules
+
+# Git
+/.git
+.gitignore
+*.md
+
+# Log file
+*.log
+
+# IDE config file
+/.idea
+/.code
+/.vs
+/.vs-code
